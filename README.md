@@ -1,6 +1,6 @@
 # DingDing
 
-[<img src="https://img.shields.io/badge/微信公众号-OwnStudyNotes-{徽标颜色}.svg">](3.2 关注我(微信公众号))[<img src="https://img.shields.io/badge/CSDN-(jiangtao)-{徽标颜色}.svg">](https://me.csdn.net/weixin_46005735)<img src="https://img.shields.io/badge/version-0.1.0-{徽标颜色}.svg"><img src="https://img.shields.io/badge/version-0.1.0-{徽标颜色}.svg"><img src="https://img.shields.io/badge/python_version-3.7-{徽标颜色}.svg">
+[<img src="https://img.shields.io/badge/微信公众号-OwnStudyNotes-{徽标颜色}.svg">](3.2 关注我的微信公众号)[<img src="https://img.shields.io/badge/CSDN-(jiangtao)-{徽标颜色}.svg">](https://me.csdn.net/weixin_46005735)<img src="https://img.shields.io/badge/version-0.1.0-{徽标颜色}.svg"><img src="https://img.shields.io/badge/version-0.1.0-{徽标颜色}.svg"><img src="https://img.shields.io/badge/python_version-3.7-{徽标颜色}.svg">
 
 > 最近在学爬虫，想着把内容发送到钉钉，就自己把安全设置为加签的几种发送方式封装成了一个模块
 >
@@ -41,7 +41,7 @@
 
 [钉钉机器人文档](https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq)
 
-### 3.2 关注我(微信公众号)
+### 3.2 关注我的微信公众号
 
 <img src="https://github.com/jt-jiangtao/DingDing/blob/master/DingDing_img/qrcode_for_gh_da4542d619e8_258.jpg">
 
