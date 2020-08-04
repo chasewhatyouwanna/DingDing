@@ -15,7 +15,7 @@
 
 - 注册登陆账号
 - 创建群
-- 创建机器人
+- 创建群机器人
 
 <img src="https://github.com/jt-jiangtao/DingDing/blob/master/DingDing_img/1.jpg" alt="1" style="zoom:50%;" />
 
@@ -37,9 +37,9 @@
 
 ## 3. 其它
 
-### 3.1 钉钉机器人文档
+### 3.1 钉钉群机器人文档
 
-[钉钉机器人文档](https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq)
+[钉钉群机器人文档](https://ding-doc.dingtalk.com/doc#/serverapi2/qf2nxq)
 
 ### 3.2 关注我(微信公众号)
 
